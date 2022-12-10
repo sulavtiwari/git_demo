@@ -4,3 +4,5 @@ git add master.txt
 git add .
 git status
 git commit -m "this is my first git commit"
+git log
+   these are all the commands  for git
