@@ -1,2 +1,6 @@
 touch master.txt
 notepad master.txt
+git add master.txt
+git add .
+git status
+git commit -m "this is my first git commit"
